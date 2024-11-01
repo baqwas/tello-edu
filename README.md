@@ -2,6 +2,8 @@
 Tello-EDU is an excellent drone for introductory lessons in drone flight control. The manufacturer is [Ryze Technology](https://www.ryzerobotics.com/tello-edu) in Shenzhen, PRC. This repository contains
 self-paced training exercises for Tello EDU adapted from Open Source publications.
 
+Tello-EDU supports many programming languages notably Scratch and Python. Since the underlying technology is basic Internet commands, this repository will demonstrate a preference for UDP and C++ code where applicable.
+
 The scripts in this repository have been developed through lessons adapted from the web. Please take some time to review the References for more authoritative information.
 
 # References
